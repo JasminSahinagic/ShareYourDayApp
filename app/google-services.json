@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "395284905234",
+    "firebase_url": "https://shareyourdayapp.firebaseio.com",
+    "project_id": "shareyourdayapp",
+    "storage_bucket": "shareyourdayapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395284905234:android:3086bf44cd00358a",
+        "android_client_info": {
+          "package_name": "com.example.shareyourdayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395284905234-bt36a1iv1iqvue16clvkia7hml8b0scl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shareyourdayapp",
+            "certificate_hash": "9498517802f079716f1f5e0d04dac7e9ffb025da"
+          }
+        },
+        {
+          "client_id": "395284905234-7vinvlb6mmh53ub2rpt55viacr4dj78v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_54lodIBWwfuQjdxb5asYqpvz-kGgl0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395284905234-7vinvlb6mmh53ub2rpt55viacr4dj78v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
